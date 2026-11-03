@@ -4,7 +4,17 @@ System architect and founder of [Start Daily xyz Limited](https://startdaily.xyz
 
 I design and build the systems organisations run on: ERPs, healthcare and education platforms, CRMs, internal portals and automation. The work starts with how the business actually operates, and ends with software the client owns and can run without me.
 
+**Currently building:** StartOS, Start Daily's AI business operating system, and the next version of [startdaily.xyz](https://startdaily.xyz). Work in progress; this line changes as I ship.
+
 Start Daily also builds its own products: **StartOS**, **StudyAbroad OS** and **E/Q Commerce OS**.
+
+## Start here
+
+Three case studies that best show how I design systems:
+
+- **[US-Bangla Medical College ERP](https://github.com/AdilAhmedAhir/case-study-usbangla-medical-portal)**: six role-based portals on one shared data model, with access rules enforced in the database.
+- **[MetLife Hafiz Agency CRM](https://github.com/AdilAhmedAhir/case-study-metlife-hafiz-crm)**: a web admin dashboard and two mobile apps on one backend, with maps and push notifications for field agents.
+- **[StartOS](https://github.com/AdilAhmedAhir/case-study-startos)**: an AI business operating system where AI drafts the work and people approve it.
 
 ## Selected systems
 
