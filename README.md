@@ -4,7 +4,7 @@ System architect and founder of [Start Daily xyz Limited](https://startdaily.xyz
 
 I design and build the systems organisations run on: ERPs, healthcare and education platforms, CRMs, internal portals and automation. The work starts with how the business actually operates, and ends with software the client owns and can run without me.
 
-Start Daily also builds its own products: **StartOS**, **Mediculum OS**, **StudyAbroad OS** and **E/Q Commerce OS**.
+Start Daily also builds its own products: **StartOS**, **StudyAbroad OS** and **E/Q Commerce OS**.
 
 ## Selected systems
 
@@ -13,7 +13,7 @@ Most client code is private. These case studies describe the problem, architectu
 | System | Domain | Case study |
 |---|---|---|
 | US-Bangla Medical College ERP | Education / healthcare | [case-study-usbangla-medical-portal](https://github.com/AdilAhmedAhir/case-study-usbangla-medical-portal) |
-| Mediculum OS | Medical college ERP product | [case-study-mediculum-os](https://github.com/AdilAhmedAhir/case-study-mediculum-os) |
+| Mediculum OS | Medical college ERP product (discontinued) | [case-study-mediculum-os](https://github.com/AdilAhmedAhir/case-study-mediculum-os) |
 | Surokkha Health Services | Health referral and membership | [case-study-surokkha-health](https://github.com/AdilAhmedAhir/case-study-surokkha-health) |
 | Apply24x7 | Study-abroad admissions | [case-study-apply24x7](https://github.com/AdilAhmedAhir/case-study-apply24x7) |
 | MetLife Hafiz Agency CRM | Insurance field-force CRM | [case-study-metlife-hafiz-crm](https://github.com/AdilAhmedAhir/case-study-metlife-hafiz-crm) |
