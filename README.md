@@ -31,6 +31,7 @@ Most client code is private. These case studies describe the problem, architectu
 | StartOS | AI business operating system | [case-study-startos](https://github.com/AdilAhmedAhir/case-study-startos) |
 | TheSign 360 | Creative asset management | [case-study-thesign360](https://github.com/AdilAhmedAhir/case-study-thesign360) |
 | Liliputer Dunia | Theme park POS and ticketing | [case-study-liliputer-dunia-pos](https://github.com/AdilAhmedAhir/case-study-liliputer-dunia-pos) |
+| Brightness Fashion | Fashion e-commerce | [case-study-brightness-fashion](https://github.com/AdilAhmedAhir/case-study-brightness-fashion) |
 
 ## Core stack
 
