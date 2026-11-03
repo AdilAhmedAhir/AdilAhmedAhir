@@ -35,4 +35,3 @@ TypeScript, Next.js, React, Node.js, Postgres (Supabase), Fastify, Flutter, Reac
 ## Contact
 
 - Studio: [startdaily.xyz](https://startdaily.xyz)
-- Personal: [adilahmed.info](https://adilahmed.info)
